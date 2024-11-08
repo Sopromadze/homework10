@@ -1,0 +1,16 @@
+@media (max-width: 481px){
+/* Header */
+header{
+    padding-inline: 8px;
+}
+/* coverphoto */
+.coverphoto{
+    padding-top: 60px;
+}
+footer{
+    flex-direction: column;
+    row-gap: 32px;
+    padding: 24px 0;
+}
+}
+

@@ -1,0 +1,25 @@
+@media (max-width: 1301px){
+    /* Header */
+    
+    header{
+        padding: 18px 64px;
+
+    } 
+    /* Section cover */
+    .coverphoto{
+        height: 560px;
+        padding-top: 100px;
+    }
+    /* Section 3 */
+    .section3{
+        height: 518px;
+        padding: 64px 0 63px 63px;
+    }
+    .section3articlebox{
+        overflow-x: scroll;
+        /* background-color: red; */
+    }
+    .section3article{
+        flex: 1 0 298px;
+          }
+}

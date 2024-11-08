@@ -1,0 +1,25 @@
+@media (max-width: 881px){
+    /* Header */
+    header{
+        padding-inline: 24px;
+    }
+    .header_nav{
+        display: none;
+    }
+    .header_i2main{
+        display: none;
+    }
+    .header_i2{
+        display: block;
+    }
+/* coverphoto  */
+.coverphoto{
+    height: 420px;
+    padding-top: 80px;
+}
+/* section3 */
+.section3{
+    padding: 24px 0 24px 24px;
+}
+
+}
