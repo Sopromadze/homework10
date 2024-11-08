@@ -90,9 +90,8 @@ header {
 
 /* section3 */
 .section3 {
-    padding: 93px;
+    padding: 94px;
     text-align: center;
-    height: 578px;
     background-color: #DEE2EB;
 }
 
@@ -113,12 +112,12 @@ header {
 }
 
 .section3article {
-    height: 290px;
     background-color: #311500;
     overflow: hidden;
 }
 
 .section3img {
+    object-fit: cover;
     padding: 8px 8px 16px 8px;
 }
 
@@ -167,6 +166,8 @@ footer {
     /* background-color: red; */
 }
 
+
+
 .footerh3 {
     font-family: Inter;
     font-size: 16px;
@@ -187,10 +188,15 @@ footer {
 .footer_nav{
     padding-top: 16px;
 }
-.footer_li{
+/* .footer_li{
     padding: 8px;
     list-style: none;
-}
+} */
+ .footer_ul{
+    display: flex;
+    flex-direction: column;
+    row-gap: 8px;
+ }
 .footer_a{
     font-family: Inter;
 font-size: 14px;

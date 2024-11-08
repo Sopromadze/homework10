@@ -10,9 +10,12 @@
         height: 560px;
         padding-top: 100px;
     }
+    .section3{
+        padding: 24px 0 24px 8px;
+    }
     /* Section 3 */
     .section3{
-        height: 518px;
+        /* height: 518px; */
         padding: 64px 0 63px 63px;
     }
     .section3articlebox{
@@ -20,6 +23,6 @@
         /* background-color: red; */
     }
     .section3article{
-        flex: 1 0 298px;
+        flex: 1 0 300px;
           }
 }

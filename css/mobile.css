@@ -5,12 +5,15 @@ header{
 }
 /* coverphoto */
 .coverphoto{
+    height: 560px;
     padding-top: 60px;
 }
+
 footer{
     flex-direction: column;
     row-gap: 32px;
     padding: 24px 0;
 }
+
 }
 
