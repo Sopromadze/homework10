@@ -54,7 +54,6 @@ header {
 
 .section2text {
     display: flex;
-    /* background-color: red; */
     align-items: center;
     column-gap: 32px;
 
@@ -108,7 +107,6 @@ header {
 .section3articlebox {
     display: flex;
     column-gap: 20px;
-    /* overflow: hidden; */
 }
 
 .section3article {
@@ -163,7 +161,6 @@ footer {
     display: flex;
     justify-content: center;
     column-gap: 80px;
-    /* background-color: red; */
 }
 
 
@@ -188,10 +185,7 @@ footer {
 .footer_nav{
     padding-top: 16px;
 }
-/* .footer_li{
-    padding: 8px;
-    list-style: none;
-} */
+
  .footer_ul{
     display: flex;
     flex-direction: column;
